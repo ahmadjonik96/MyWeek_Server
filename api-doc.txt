@@ -1,4 +1,4 @@
-Man ahmadjonman, Qobiljon mani akajonim. Man ko’tman.
+Edit.
 
 API Documentation for the project "My Week"
 Author:         Kobiljon Toshnazarov
