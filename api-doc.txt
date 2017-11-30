@@ -1,3 +1,5 @@
+Man ahmadjonman, Qobiljon mani akajonim. Man ko’tman.
+
 API Documentation for the project "My Week"
 Author:         Kobiljon Toshnazarov
 Last Edited:    October 4th, 2017
